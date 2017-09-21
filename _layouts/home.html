@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+  <head>
+    {% include head.html %}
+  </head>
+
+  <body class="landing">
+    <div id="page-wrapper">
+      <header id="header" class="alt">
+        {% include nav_menu.html %}
+      </header>
+
+      <section id="banner" class="{{ page.class }}">
+        <div id="fg_logo">
+          <img src="/assets/img/fg.png"></img>
+          <h2><i>Froget Garwacki</i></h2>
+          <h2><i>Partner for finance recruitments</i></h2>
+        </div>
+        <section id="home_text" class="box">
+          <div>
+            {{ content }}
+          </div>
+        </section>
+      </section>
+
+    </div>
+    {% include scripts.html %}
+  </body>
+</html>
