@@ -9,7 +9,7 @@ distance from Stadelhofen.
 
 <img src="/assets/img/bureau.jpg" class="portrait_bureau"/>
 
-[Froget Garwacki,  Partner for finance recruitments<br/>
+[Froget Garwacki Partner Gmbh<br/>
 Bellerivestrasse, 11<br/>
 CH-8008	Zurich](https://goo.gl/maps/wznvXayMz1R2)
 
