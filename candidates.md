@@ -1,5 +1,5 @@
 ---
-title: Candidates
+title: For candidates
 class: candidates
 lang: en
 ---
