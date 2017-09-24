@@ -6,7 +6,7 @@ lang: en
 **The next job you'll choose will drive your career, but also your personal life.**<br/>
 Each individual's motivation is different : hence we take it into consideration as much as your skills and background.
 
-## Our main focus covers the following roles
+# Our main focus covers the following roles
 
 - Finance directors
 - Finance Managers
