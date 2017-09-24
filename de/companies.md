@@ -1,31 +1,23 @@
 ---
-title: Companies
+title: Unternehmen
 class: companies
 lang: de
 ---
 
 <img src="{{ site.baseurl }}/assets/img/claire_table.jpg" class="portrait_companies" />
 
-## Giving you access to my network
-
-Over the last 11 years, I have developed a strong network of finance
-professionals across Europe. They are my previous colleagues, managers,
-providers or clients. Most of them are in a trustful relationship with their
-employer, and therefore not necessarily aware of the possible opportunities
-on the market
+## Zugang zu meinem Netzwerk
 
 
-They are however always happy to catch-up with me and hear of external
-career options.
+In den letzten 11 Jahren habe ich ein starkes Netzwerk mit Finanzfachleuten aus ganz Europe aufgebaut. Diese Personen sind meistens frühere Kollegen, Manager, Anbieter oder Kunden. Die meisten von ihnen pflegen eine vertrauensvolle Beziehung zu ihrem Arbeitgeber. Daher sind sie sich über die möglichen Opportunitäten am Markt nicht immer bewusst. 
 
-I get to know most of my recent "candidates" via word of mouth and referrals.
+Sie sind jedoch immer glücklich sich mit mir auszutauschen und von externen Karrieremöglichkeiten zu hören. 
+Die meisten meiner Kandidaten lerne ich durch Empfehlungen und Referenzen kennen.
 
 
-## Strict selection
+## Strenges Auswahlverfahren
 
-The screening I undertake consists of a 2 hour interview, covering all aspects
-of the CV, as well as her/his financial and business skills. I also give a lot of
-importance to the motivation : is this candidate going to be happy and stay in
-your team ?
 
-References are systematically taken, either early or later during the process.
+Die Selektion besteht aus einem 2-stündigen Interview, das auf alle Aspekte des Lebenslaufs eingeht sowie die fachlichen Kompetenzen abdeckt. Ebenso fokusiere ich mich sehr auf die Motivation und die Werte des Kandidaten: Wird dieser Kandidat in ihrem Team glücklich sein und langfristig bei Ihnen bleiben? 
+
+Referenzen werden systematisch eingeholt; entweder am Anfang oder am Ende des Prozesses.
