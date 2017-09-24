@@ -18,7 +18,6 @@ Each individual's motivation is different : hence we take it into consideration 
 
 
 **We also guide our candidates with our expertise to maximize their chances getting the job:**<br/>
-
 - Interviews techniques
 - Coaching before and during the process
 - Salary negotiation
