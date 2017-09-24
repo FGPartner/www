@@ -7,7 +7,7 @@ lang: en
 Each individual's motivation is different : hence we take it into consideration as much as your skills and background.
 
 **Our main focus covers the following roles:**<br/>
-- Finance directors
+Finance directors
 - Finance Managers
 - Reporting specialists
 - Financial Planning and Analysis
