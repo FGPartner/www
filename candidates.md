@@ -6,7 +6,7 @@ lang: en
 **The next job you'll choose will drive your career, but also your personal life.**<br/>
 Each individual's motivation is different : hence we take it into consideration as much as your skills and background.
 
-**Our main focus covers the following roles**<br/>
+**Our main focus covers the following roles:**<br/>
 
 - Finance directors
 - Finance Managers
@@ -18,7 +18,7 @@ Each individual's motivation is different : hence we take it into consideration 
 - Controllers (business, financial, manufacturing, etc)
 
 
-**We also guide our candidates with our expertise to maximize their chances getting the job**<br/>
+**We also guide our candidates with our expertise to maximize their chances getting the job:**<br/>
 
 - Interviews techniques
 - Coaching before and during the process
