@@ -12,7 +12,7 @@ Over the last 11 years, I have developed a strong network of finance
 professionals across Europe. They are my previous colleagues, managers,
 providers or clients. Most of them are in a trustful relationship with their
 employer, and therefore not necessarily aware of the possible opportunities
-on the market
+on the market.
 
 They are however always happy to catch-up with me and hear of external
 career options.
