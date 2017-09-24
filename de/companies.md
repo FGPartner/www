@@ -1,5 +1,5 @@
 ---
-title: Unternehmen
+title: Für Unternehmen
 class: companies
 lang: de
 ---
