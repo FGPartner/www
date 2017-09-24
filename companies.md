@@ -17,7 +17,7 @@ on the market.
 They are however always happy to catch-up with me and hear of external
 career options.
 
-I get to know most of my recent "candidates" via word of mouth and referrals.
+I got to know most of my recent "candidates" via word of mouth and referrals.
 
 
 ## Strict selection
@@ -26,5 +26,4 @@ The screening I undertake consists of a 2 hour interview, covering all aspects
 of the CV, as well as her/his financial and business skills. I also give a lot of
 importance to the motivation : is this candidate going to be happy and stay in
 your team ?
-
 References are systematically taken, either early or later during the process.
