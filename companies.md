@@ -1,5 +1,5 @@
 ---
-title: Companies
+title: For companies
 class: companies
 lang: en
 ---
