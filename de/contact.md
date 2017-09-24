@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Kontact
 class: contact
 lang: de
 ---
