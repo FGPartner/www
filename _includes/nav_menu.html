@@ -2,15 +2,15 @@
   <ul>
     {% if page.lang == 'en' %}
       <li><a href="/">Home</a></li>
-      <li><a href="/companies.html">Companies</a></li>
-      <li><a href="/candidates.html">Candidates</a></li>
+      <li><a href="/companies.html">For companies</a></li>
+      <li><a href="/candidates.html">For candidates</a></li>
       <li><a href="/about.html">About us</a></li>
       <li><a href="/contact.html">Contact</a></li>
       <li><a href="/de{{ page.url }}">DE</a></li>
     {% else %}
       <li><a href="/de/">Home</a></li>
-      <li><a href="/de/companies.html">Unternehmen</a></li>
-      <li><a href="/de/candidates.html">Kandidaten</a></li>
+      <li><a href="/de/companies.html">Für Unternehmen</a></li>
+      <li><a href="/de/candidates.html">Für Kandidaten</a></li>
       <li><a href="/de/about.html">Über uns</a></li>
       <li><a href="/de/contact.html">Kontakt</a></li>
       <li><a href="/{{ page.url | remove_first: '/de/' }}">EN</a></li>
