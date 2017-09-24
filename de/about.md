@@ -1,29 +1,18 @@
 ---
-title: About us
+title: Über uns
 class: about
 lang: de
 ---
 
-## Claire Garwacki, Director
-### 6 years in headhunting after 5 years in finance
+## Claire Garwacki, Leiterin
+### 6 Jahre im Headhunting, 5 Jahre in der Finanz Industrie
 
 <img src="/assets/img/claire_debout.jpg" class="portrait_about"/>
 
-### Master in Business Management from ESCP European Business School
+### Master in Business Management von der ESCP European Business School
 
-Claire Garwacki is an acknowledged Swiss based headhunter, specialized in
-Corporate Finance.
-Her focus is the upper middle management level (controlling managers,
-finance directors, senior controllers, senior accountants, heads of accounting).
+Claire Garwacki is eine in der Schweiz anerkannte Headhunterin, die sich auf Corporate Finance spezialisiert hat. Ihr Fokus Bereich liegt in der oberen und mittleren Management Ebene (e.g. Leiter Controlling, Finanz Direktoren, Senior Controller, Senior Buchhalter, Leiter Buchhaltung).
 
-Claire was previously Chief Financial Officer in the fashion industry and
-a Senior Auditor for Ernst and Young Paris.
-She joined the Recruiting Industry in 2011 when she realized - being a
-client and a candidate - the importance of being listened to, and
-understood by a peer. Claire started her recruiting career with a
-renowned international firm and joined a few years later a well
- established Swiss boutique. Thanks to a rapidly growing word of mouth,
- her name has become a reference. Claire is now the owner of Froget
- Garwacki, Partner for finance recruitments.
+Claire war zuvor Chief Financial Officer in der Modebranche und ein Senior Auditor bei Ernst and Young Paris. Sie schloss sich 2011 der Rekrutierungs Branche an als sie während ihrer Zeit - als Kandidatin und Kundin zu gleich - erkannte wie wichtig es ist von seinem Gegenüber gehört und verstanden zu werden. Claire begann ihre berufliche Karriere als Rekruter in einer renomierten internationalen Unternehmung und trat dann, einige Jahre später, einer gut-etablierten Schweizer Boutique Unternehmung bei. Dank der schnellwachsenden Referenzen ist ihr Name nun sehr bekannt in der Industrie. Claire ist nun die Inhaberin von Froget Garwacki, Partner für Finanz Rekrutierungen. 
 
 [Claire on Linkedin](https://ch.linkedin.com/in/claire-garwacki-a9029125)
