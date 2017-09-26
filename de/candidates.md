@@ -3,27 +3,27 @@ title: Candidates
 class: candidates
 lang: de
 ---
-**The next job you'll choose will drive your career, but also your personal life.**<br/>
-Each individual's motivation is different : hence we take it into consideration as much as your skills and background.
+**Die nächste Position, die Sie wählen wird Ihre Karriere und Ihr persönliches Leben steuern.**<br/>
+Die Motivation jedes Einzelnen ist anders: Wie nehmen dies, Ihre Fähigkeiten und Ihren Werdegang in Betracht.
 
-## Our main focus covers the following roles
+## Unser Schwerpunkt liegt in den folgenden Positionen
 
-- Finance directors
-- Finance Managers
-- Reporting specialists
-- Financial Planning and Analysis
-- Accounting Managers
-- Accounting Directors
-- Internal auditors
-- Controllers (business, financial, manufacturing, etc)
+- Finanz Direktoren
+- Finanzleiter
+- Reporting Spezialisten
+- Finanzielle Planung und Analyse
+- Leiter Buchhaltung
+- Direktor Buchhaltung
+- Interne Revisoren
+- Controllers (Business, Finanz, Produktion, etc.)
 
 
-## We also guide our candidates with our expertise to maximize their chances getting the job
+## Wir begleiten unsere Kandidaten ebenso mit unserem Know-how um deren Chance die Rolle zu erhalten zu maximieren.
 
-- Interviews techniques
-- Coaching before and during the process
-- Salary negotiation
-- Follow up
+- Interview Techniken
+- Coaching vor und während des Prozesses
+- Gehaltsverhandlung
+- Nachverfolgung
 
-**FG Partner supports the companies with exclusive and confidential mandates.**<br/>
-**We give our candidates access to positions which are not published.**
+**FG Partner unterstützt Unternehmen mit exklusiven und vertraulichen Mandaten.**<br/>
+**Wir geben unseren Kandidaten Zugang zu Positionen, die nicht veröffentlicht werden.**
