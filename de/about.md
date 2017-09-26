@@ -5,7 +5,7 @@ lang: de
 ---
 
 ## Claire Garwacki, Leiterin
-### 6 Jahre im Headhunting, 5 Jahre in der Finanz Industrie
+### 6 Jahre im Headhunting nach 5 Jahren in der Finanz Industrie
 
 <img src="/assets/img/claire_debout.jpg" class="portrait_about"/>
 
