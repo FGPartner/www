@@ -5,7 +5,8 @@ lang: de
 class: index
 ---
 
-Froget Garwacki is a headhunting company specialized in the search of
-finance managers and directors.<br/>
- We support our clients all across
- Switzerland, and connect them with a global network of candidates.
+FG Partner ist ein Headhunting Unternehmen, 
+das sich auf die Rekrutierung von Finanzleitern und Finanz Direktoren spezialisiert hat.<br/>
+Wir unterstützen unsere Kunden in der ganzen Schweiz 
+und verbinden sie mit einem globalen Kandidatennetzwerk.
+ 
