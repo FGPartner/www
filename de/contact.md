@@ -5,10 +5,11 @@ lang: de
 ---
 <img src="/assets/img/bureau.jpg" class="portrait_bureau"/>
 
-We are happy to welcome you in our premises located a few minutes walking
-distance from Stadelhofen :
+Wir freuen uns Sie in unseren Räumlichkeiten, welche nur wenige Gehminuten von der
+Station Stadelhofen entfernt sind, begrüssen zu dürfen. 
 
-[Bellerivestrasse, 11<br/>
+[Froget Garwacki Gmbh 
+Bellerivestrasse, 11<br/>
 CH-8008	Zurich](https://goo.gl/maps/wznvXayMz1R2)
 
 Tel: [0041 43 544 44 75](tel:0041 43 544 44 75)
