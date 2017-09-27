@@ -22,7 +22,7 @@ I got to know most of my recent "candidates" via word of mouth and referrals.
 ## Strict selection
 
 The screening I undertake consists of a 2 hour interview, covering all aspects
-of the CV. My financial background enables me to test the candidate's technical 
+of the CV. My financial background enables me to test the candidate's technical
 as well as business skills. I also give a lot of importance to the motivation :
 is this candidate going to be happy and stay in your team ?
 
