@@ -28,6 +28,9 @@
 }
 
 /* Custom */
+.NoBorder {
+  border: 0;
+}
 
 p {
 	font-size: larger;
@@ -55,6 +58,7 @@ p {
 	margin-top: 15px;
 	margin-left: 20px;
 	margin-right: 20px;
+  max-height: 150px;
 }
 
 #home_text {
