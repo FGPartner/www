@@ -18,7 +18,6 @@ career options.
 
 I got to know most of my recent "candidates" via word of mouth and referrals.
 
-
 ## Strict selection
 
 The screening I undertake consists of a 2 hour interview, covering all aspects
