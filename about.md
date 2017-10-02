@@ -13,7 +13,7 @@ lang: en
 Claire on Linkedin</a><br>
 **Master in Business Management from ESCP European Business School**
 
-Claire Garwacki is an acknowledged Swiss based headhunter, specialized in
+Claire Garwacki is an recognized Swiss based headhunter, specialized in
 Corporate Finance.
 Her focus is the upper middle management level (controlling managers,
 finance directors, senior controllers, senior accountants, heads of accounting).
@@ -25,5 +25,4 @@ client and a candidate - the importance of being listened to, and
 understood by a peer. Claire started her recruiting career with a
 renowned international firm and joined a few years later a well
  established Swiss boutique. Thanks to a rapidly growing word of mouth,
- her name has become a reference. Claire is now the owner of Froget
- Garwacki, Partner for finance recruitments.
+ her name has become a reference. Claire is now the owner of FG Partner Gmbh.
