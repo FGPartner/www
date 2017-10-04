@@ -105,36 +105,60 @@ h3 {
 
 #banner.index { height: 100vh;}
 
-#banner.index { background-image: url("images/overlay.png"), url("/assets/img/companies.jpg");}
-#banner.companies { background-image: url("images/overlay.png"), url("/assets/img/rock_climber.jpg");}
-#banner.about { background-image: url("images/overlay.png"), url("/assets/img/Jumping.jpg");}
-#banner.candidates { background-image: url("images/overlay.png"), url("/assets/img/hiking.jpg");}
-#banner.contact { background-image: url("images/overlay.png"), url("/assets/img/contact.jpg");}
-#banner.not_found { background-image: url("images/overlay.png"), url("/assets/img/not_found.jpg");}
+#banner.index { background-image: url("images/overlay.png"), url("/assets/img/small/3000_companies.jpg");}
+#banner.companies { background-image: url("images/overlay.png"), url("/assets/img/small/3000_rock_climber.jpg");}
+#banner.about { background-image: url("images/overlay.png"), url("/assets/img/small/3000_Jumping.jpg");}
+#banner.candidates { background-image: url("images/overlay.png"), url("/assets/img/small/3000_hiking.jpg");}
+#banner.contact { background-image: url("images/overlay.png"), url("/assets/img/small/3000_contact.jpg");}
+#banner.not_found { background-image: url("images/overlay.png"), url("/assets/img/small/3000_not_found.jpg");}
 
 @media screen and (max-width: 1920px) {
+  #banner.index { background-image: url("images/overlay.png"), url("/assets/img/small/1920_companies.jpg");}
+  #banner.companies { background-image: url("images/overlay.png"), url("/assets/img/small/1920_rock_climber.jpg");}
+  #banner.about { background-image: url("images/overlay.png"), url("/assets/img/small/1920_Jumping.jpg");}
+  #banner.candidates { background-image: url("images/overlay.png"), url("/assets/img/small/1920_hiking.jpg");}
+  #banner.contact { background-image: url("images/overlay.png"), url("/assets/img/small/1920_contact.jpg");}
+  #banner.not_found { background-image: url("images/overlay.png"), url("/assets/img/small/1920_not_found.jpg");}
 }
 
 @media screen and (max-width: 1680px) {
-/*#banner.index { background-image: url("images/overlay.png"), url("/assets/img/banner_index_1680.jpg");}*/
+  #banner.index { background-image: url("images/overlay.png"), url("/assets/img/small/1680_companies.jpg");}
+  #banner.companies { background-image: url("images/overlay.png"), url("/assets/img/small/1680_rock_climber.jpg");}
+  #banner.about { background-image: url("images/overlay.png"), url("/assets/img/small/1680_Jumping.jpg");}
+  #banner.candidates { background-image: url("images/overlay.png"), url("/assets/img/small/1680_hiking.jpg");}
+  #banner.contact { background-image: url("images/overlay.png"), url("/assets/img/small/1680_contact.jpg");}
+  #banner.not_found { background-image: url("images/overlay.png"), url("/assets/img/small/1680_not_found.jpg");}
 }
 
 @media screen and (max-width: 1280px) {
-/*#banner.index { background-image: url("images/overlay.png"), url("/assets/img/banner_index_1280.jpg");}*/
+  #banner.index { background-image: url("images/overlay.png"), url("/assets/img/small/1280_companies.jpg");}
+  #banner.companies { background-image: url("images/overlay.png"), url("/assets/img/small/1280_rock_climber.jpg");}
+  #banner.about { background-image: url("images/overlay.png"), url("/assets/img/small/1280_Jumping.jpg");}
+  #banner.candidates { background-image: url("images/overlay.png"), url("/assets/img/small/1280_hiking.jpg");}
+  #banner.contact { background-image: url("images/overlay.png"), url("/assets/img/small/1280_contact.jpg");}
+  #banner.not_found { background-image: url("images/overlay.png"), url("/assets/img/small/1280_not_found.jpg");}
 }
 
 @media screen and (max-width: 980px) {
-/*#banner.index { background-image: url("images/overlay.png"), url("/assets/img/banner_index_980.jpg");}*/
+  #banner.companies { background-image: url("images/overlay.png"), url("/assets/img/small/980_rock_climber.jpg");}
+  #banner.about { background-image: url("images/overlay.png"), url("/assets/img/small/980_Jumping.jpg");}
+  #banner.candidates { background-image: url("images/overlay.png"), url("/assets/img/small/980_hiking.jpg");}
+  #banner.contact { background-image: url("images/overlay.png"), url("/assets/img/small/980_contact.jpg");}
+  #banner.not_found { background-image: url("images/overlay.png"), url("/assets/img/small/980_not_found.jpg");}
 }
 
 @media screen and (max-width: 840px) {
-/*#banner.index { background-image: url("images/overlay.png"), url("/assets/img/banner_index_840.jpg");}*/
+  #banner.companies { background-image: url("images/overlay.png"), url("/assets/img/small/840_rock_climber.jpg");}
+  #banner.about { background-image: url("images/overlay.png"), url("/assets/img/small/840_Jumping.jpg");}
+  #banner.candidates { background-image: url("images/overlay.png"), url("/assets/img/small/840_hiking.jpg");}
+  #banner.contact { background-image: url("images/overlay.png"), url("/assets/img/small/840_contact.jpg");}
+  #banner.not_found { background-image: url("images/overlay.png"), url("/assets/img/small/840_not_found.jpg");}
 }
 
 @media screen and (max-width: 736px) {
-/*#banner.index { background-image: url("images/overlay.png"), url("/assets/img/banner_index_736.jpg");}*/
-}
-
-@media screen and (max-width: 480px) {
-/*#banner.index { background-image: url("images/overlay.png"), url("/assets/img/banner_index_480.jpg");}*/
+  #banner.companies { background-image: url("images/overlay.png"), url("/assets/img/small/736_rock_climber.jpg");}
+  #banner.about { background-image: url("images/overlay.png"), url("/assets/img/small/736_Jumping.jpg");}
+  #banner.candidates { background-image: url("images/overlay.png"), url("/assets/img/small/736_hiking.jpg");}
+  #banner.contact { background-image: url("images/overlay.png"), url("/assets/img/small/736_contact.jpg");}
+  #banner.not_found { background-image: url("images/overlay.png"), url("/assets/img/small/736_not_found.jpg");}
 }

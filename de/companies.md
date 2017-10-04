@@ -4,7 +4,7 @@ class: companies
 lang: de
 ---
 
-<img src="{{ site.baseurl }}/assets/img/claire_table.jpg" class="portrait_companies" />
+<img src="{{ site.baseurl }}/assets/img/small/480_claire_table.jpg" class="portrait_companies" />
 
 ## Zugang zu meinem Netzwerk
 

@@ -7,7 +7,7 @@ lang: en
 ## Claire Garwacki, Director
 ### 6 years in headhunting after 5 years in finance
 
-<img src="/assets/img/claire_debout.jpg" class="portrait_about"/>
+<img src="/assets/img/small/480_claire_debout.jpg" class="portrait_about"/>
 
 <a target="_blank" href="https://ch.linkedin.com/in/claire-garwacki-a9029125">
 Claire on Linkedin</a><br>
