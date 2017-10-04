@@ -1,5 +1,5 @@
 ---
-title: Candidates
+title: Für Kandidaten
 class: candidates
 lang: de
 ---
