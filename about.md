@@ -28,4 +28,4 @@ renowned international firm and joined a few years later a very well
 established Swiss boutique. Thanks to a rapidly growing word of mouth,
 her name has become a reference in Switzerland.
 Claire speaks English, French, German and Spanish.
-She is now the owner of FG Partner Gmbh, "your partner for finance recruiments".
+She is now the owner of FG Partner Gmbh, "partner for your finance recruiments".
