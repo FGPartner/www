@@ -15,14 +15,18 @@ Claire on Linkedin</a><br>
 
 Claire Garwacki is a recognized Swiss based headhunter, specialized in
 Corporate Finance.
-Her focus is the upper middle management level (controlling managers,
-finance directors, senior controllers, senior accountants, heads of accounting).
+Her focus is the upper management level for finance departments (country CFOs, 
+regional finance directors, VPs Finance, accounting directors) as well 
+as middle management professionals (controlling managers, business controllers, 
+accounting managers)
 
-Claire was previously Chief Financial Officer in the fashion industry and
-a Senior Auditor for Ernst and Young Paris.
+Claire was previously the Finance Director of a french fashion brand in the
+retail sector and a senior financial auditor for Ernst and Young Paris.
 She joined the Recruiting Industry in 2011 when she realized - being a
 client and a candidate - the importance of being listened to, and
-understood by a peer. Claire started her recruiting career with a
-renowned international firm and joined a few years later a well
- established Swiss boutique. Thanks to a rapidly growing word of mouth,
- her name has become a reference. Claire is now the owner of FG Partner Gmbh.
+understood by a peer. Claire started her recruiting career in 2011 with a
+renowned international firm and joined a few years later a very well
+established Swiss boutique. Thanks to a rapidly growing word of mouth,
+her name has become a reference in Switzerland.
+Claire speaks English, French, German and Spanish.
+She is now the owner of FG Partner Gmbh, "your partner for finance recruiments".
