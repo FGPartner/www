@@ -13,7 +13,7 @@ lang: en
 Claire on Linkedin</a><br>
 **Master in Business Management from ESCP European Business School**
 
-Claire Garwacki is a recognized Swiss based headhunter, specialized in
+Claire Garwacki is a recognized Switzerland-based headhunter, specialized in
 corporate finance.
 Her focus is the upper management level for finance departments (country CFOs, 
 regional finance directors, VPs Finance, accounting directors, controlling managers 
