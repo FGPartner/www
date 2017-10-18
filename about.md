@@ -14,14 +14,14 @@ Claire on Linkedin</a><br>
 **Master in Business Management from ESCP European Business School**
 
 Claire Garwacki is a recognized Swiss based headhunter, specialized in
-Corporate Finance.
+corporate finance.
 Her focus is the upper management level for finance departments (country CFOs, 
-regional finance directors, VPs Finance, accounting directors, Controlling managers 
+regional finance directors, VPs Finance, accounting directors, controlling managers 
 and country controllers).
 
-Claire was previously the Finance Director of a french fashion brand in the
+Claire was previously the Finance Director of a French fashion brand in the
 retail sector and a senior financial auditor for Ernst and Young Paris.
-She joined the Recruiting Industry in 2011 when she realized - being a
+She joined the recruiting industry in 2011 when she realized - being a
 client and a candidate - the importance of being listened to, and
 understood by a peer. Claire started her recruiting career in 2011 with a
 renowned international firm and joined a few years later a very well
