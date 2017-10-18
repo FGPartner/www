@@ -16,9 +16,8 @@ Claire on Linkedin</a><br>
 Claire Garwacki is a recognized Swiss based headhunter, specialized in
 Corporate Finance.
 Her focus is the upper management level for finance departments (country CFOs, 
-regional finance directors, VPs Finance, accounting directors) as well 
-as middle management professionals (controlling managers, business controllers, 
-accounting managers)
+regional finance directors, VPs Finance, accounting directors, Controlling managers 
+and country controllers).
 
 Claire was previously the Finance Director of a french fashion brand in the
 retail sector and a senior financial auditor for Ernst and Young Paris.
