@@ -8,9 +8,10 @@ Each individual's motivation is different : hence we take it into consideration 
 
 ## Our main focus covers the following roles
 
-- Finance directors
-- Finance Managers
-- Reporting specialists
+- CFOs
+- Regional Finance directors
+- Country heads of finance
+- Reporting managers
 - Financial Planning and Analysis
 - Accounting Managers
 - Accounting Directors
