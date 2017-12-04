@@ -21,10 +21,10 @@ description: > # this means to ignore newlines until "baseurl:"
   We support our clients all across Switzerland, and connect them
   with a global network of candidates.
 google_analytics: true
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://www.fg-partner.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+baseurl: / # the subpath of your site, e.g. /blog
+url: http://www.fg-partner.com # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: ""
+github_username:  FGPartner
 
 # Build settings
 markdown: kramdown
