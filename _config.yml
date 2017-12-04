@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   finance executives and specialists.
   We support our clients all across Switzerland, and connect them
   with a global network of candidates.
-google_analytics: true
+google_analytics: UA-110610009-1
 baseurl: / # the subpath of your site, e.g. /blog
 url: http://www.fg-partner.com # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
