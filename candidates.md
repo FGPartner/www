@@ -3,10 +3,10 @@ title: For candidates
 class: candidates
 lang: en
 ---
-**The next job you'll choose will drive your career, but also your personal life.**<br/>
-Each individual's motivation is different : hence we take it into consideration as much as your skills and background.
+**Claire Garwacki : "The next job you'll choose will drive your career, but also your personal life".**<br/>
+Each individual's motivation is different : hence FG Partner takes it into consideration as much as your skills and background.
 
-## Our main focus covers the following roles
+## FG Partner's main focus covers the following roles
 
 - CFOs
 - Regional Finance directors
@@ -19,7 +19,7 @@ Each individual's motivation is different : hence we take it into consideration 
 - Controllers (business, financial, manufacturing, etc)
 
 
-## We also guide our candidates with our expertise to maximize their chances getting the job:
+## FG Partner also guides the candidates with its expertise to maximize their chances getting the job:
 
 - Interviews techniques
 - Coaching before and during the process
@@ -27,4 +27,4 @@ Each individual's motivation is different : hence we take it into consideration 
 - Follow up
 
 **FG Partner supports the companies with exclusive and confidential mandates.**<br/>
-**We give our candidates access to positions which are not published.**
+** Claire Garwacki : "We give our candidates access to positions which are not published".**
