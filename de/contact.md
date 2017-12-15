@@ -4,8 +4,8 @@ class: contact
 lang: de
 ---
 
-Wir freuen uns Sie in unseren Räumlichkeiten, welche nur wenige Gehminuten von der
-Station Stadelhofen entfernt sind, begrüssen zu dürfen.
+Wir freuen uns Sie in unseren Räumlichkeiten, welche nur wenige Gehminuten von der Station Stadelhofen 
+entfernt sind, begrüssen zu dürfen.
 
 <img src="/assets/img/bureau.jpg" class="portrait_bureau"/>
 
