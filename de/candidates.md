@@ -3,8 +3,8 @@ title: Für Kandidaten
 class: candidates
 lang: de
 ---
-**Die nächste Position, die Sie wählen wird Ihre Karriere und Ihr persönliches Leben steuern.**<br/>
-Die Motivation jedes Einzelnen ist anders: Wie nehmen dies, Ihre Fähigkeiten und Ihren Werdegang in Betracht.
+**Die nächste Position, die Sie aussuchen, wird Ihre Karriere und Ihr persönliches Leben beeinflussen.**<br/>
+Die Motivation jedes Einzelnen ist anders: wir nehmen Ihre persönlichen Beweggründe, Ihre Fähigkeiten und Ihren Werdegang in Betracht.
 
 ## Unser Schwerpunkt liegt in den folgenden Positionen
 
@@ -18,7 +18,7 @@ Die Motivation jedes Einzelnen ist anders: Wie nehmen dies, Ihre Fähigkeiten un
 - Controllers (Business, Finanz, Produktion, etc.)
 
 
-## Wir begleiten unsere Kandidaten ebenso mit unserem Know-how um deren Chance die Rolle zu erhalten zu maximieren.
+## Wir begleiten unsere Kandidaten im Rekrutierungsprozess und stellen ihnen unsere Erfahrung sowie unser Know-how zur Verfügung um ihre Chancen  zu maximieren.
 
 - Interview Techniken
 - Coaching vor und während des Prozesses
